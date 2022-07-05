@@ -1,0 +1,15 @@
+{
+    "name": "william/mini-framework-php",
+    "autoload": {
+        "psr-4": {
+            "William\\MiniFrameworkPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "William Vieira",
+            "email": "willvsouza@gmail.com"
+        }
+    ],
+    "require": {}
+}
